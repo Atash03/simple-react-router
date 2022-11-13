@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-router/static/css/main.f91712b2.css",
+    "main.js": "/simple-react-router/static/js/main.8097bcb1.js",
+    "index.html": "/simple-react-router/index.html",
+    "main.f91712b2.css.map": "/simple-react-router/static/css/main.f91712b2.css.map",
+    "main.8097bcb1.js.map": "/simple-react-router/static/js/main.8097bcb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91712b2.css",
+    "static/js/main.8097bcb1.js"
+  ]
+}
